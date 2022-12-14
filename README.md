@@ -1,3 +1,3 @@
 # Cubethon-Windows-Game
-My First Game in unity - Cubethon-Windows-Game
-Top Play, Run "New Unity Project.exe"!
+My First Game in unity - Cubethon-Windows-Game \n
+To Play, Run "New Unity Project.exe"!
